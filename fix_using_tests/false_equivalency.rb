@@ -1,4 +1,4 @@
-reqiure 'pry'
+reqiure'pry'
 
 def get_user_input
  gets.chomp
